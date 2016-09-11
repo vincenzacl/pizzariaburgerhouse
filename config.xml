@@ -7,7 +7,7 @@
         id        = "com.webwapsolutions.epizzaappPizzariaBurgerhouse"
         version   = "1.0.1">
 
-    <name>PizzariaBurgerhouse</name>
+    <name>Pizzaria Burgerhouse</name>
     <description>
         <!--ePizza Suite App til din hjemmeside-->
 		Pizzaria Burgerhouse App powered by ePizza Suite Pro - leveret af Web Wap Solutions
@@ -67,8 +67,8 @@
     <preference name="KeepRunning"                value="true"/>
     <preference name="InAppBrowserStorageEnabled" value="true"/>
     
-    <preference name="LoadingDialog" value="PizzariaBurgerhouse, Velkommen til Pizzaria Burgerhouse"/>
-    <preference name="LoadingPageDialog" value="PizzariaBurgerhouse, Velkommen til Pizzaria Burgerhouse"/>
+    <preference name="LoadingDialog" value="Pizzaria Burgerhouse, Velkommen til Pizzaria Burgerhouse"/>
+    <preference name="LoadingPageDialog" value="Pizzaria Burgerhouse, Velkommen til Pizzaria Burgerhouse"/>
     <preference name="LogLevel" value="WARN"/>
     
     <gap:config-file platform="android" parent="/manifest/application">
