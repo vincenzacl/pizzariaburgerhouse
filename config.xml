@@ -79,7 +79,7 @@
 
         <!-- Core plugins -->
 		<gap:plugin name="com.phonegap.plugin.statusbar" source="pgb" spec="1.1.0" />
-		<gap:plugin name="cordova-plugin-whitelist" spec="1.2.1" />
+		<gap:plugin name="cordova-plugin-whitelist" spec="1.2.2" />
 		<gap:plugin name="org.apache.cordova.battery-status" spec="1.1.1" />
 		<gap:plugin name="org.apache.cordova.console" spec="1.0.2" />
 		<gap:plugin name="org.apache.cordova.device" spec="1.1.1" />
